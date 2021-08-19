@@ -1,29 +1,32 @@
-<!DOCTYPE md>
-    # project title
+# project12345
 
     ## Table of Contents
     - [Description](#description)
     - [Installation](#installation)
+    - [Instructions](#instructions)
     - [Usage](#usage)
-    - [Credits](#credits)
+    - [Questions](#questions)
     - [License](#license)
 
-    ## Description:
-        this is my project
+    ## Description
+        this is my project1245 description blah blah blah
 
     ## Installation
-        undefined
+        the user can install this application
 
     ## Instructions
-        undefined
+        there are no instructions for this application
 
     ## Usage Information
-        undefined
+        to use the applicaton
 
-    ## Credits
-        undefined
+    ## Questions
+       You can contact me via GitHub or email if you have any questoins:
+             - GitHub: github.com/kelley-mcd
+             - Email Address: kmcdonnell8@gmail.com
 
     ## License
-        undefined
+        The license used for this application is:
+            - undefined
     
     

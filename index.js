@@ -39,7 +39,7 @@ const questions = () => {
             type: 'checkbox',
             name: 'stack',
             message: 'select from these license types',
-            choices: ['L1', 'L2', 'L3', 'L4'],
+            choices: ['Apache2.0', 'Boost Software 1.0', 'BSD 3-Clause'],
         },
         {
             type: 'input',
@@ -57,7 +57,7 @@ const questions = () => {
 const generateReadMe = (answers) =>
     `# ${answers.name}
 
-    ## Table of Contents
+    # Table of Contents
     - [Description](#description)
     - [Installation](#installation)
     - [Instructions](#instructions)
@@ -65,26 +65,26 @@ const generateReadMe = (answers) =>
     - [Questions](#questions)
     - [License](#license)
 
-    ## Description
+    # Description
         ${answers.description}
 
-    ## Installation
+    # Installation
         ${answers.installation}
 
-    ## Instructions
+    # Instructions
         ${answers.instructions}
 
-    ## Usage Information
+    # Usage Information
         ${answers.usage}
 
-    ## Questions
+    # Questions
        You can contact me via GitHub or email if you have any questoins:
              - GitHub: github.com/${answers.github}
              - Email Address: ${answers.email}
 
-    ## License
+    # License
         The license used for this application is:
-            - ${answers.license}
+            - ${answers.stack}
     
     `;
 
