@@ -1,6 +1,6 @@
-# project12345
+# Project1
 
-    ## Table of Contents
+    # Table of Contents
     - [Description](#description)
     - [Installation](#installation)
     - [Instructions](#instructions)
@@ -8,25 +8,25 @@
     - [Questions](#questions)
     - [License](#license)
 
-    ## Description
-        this is my project1245 description blah blah blah
+    # Description
+        this is the description for the project I am working on
 
-    ## Installation
-        the user can install this application
+    # Installation
+        the user can install this application by downloading it
 
-    ## Instructions
-        there are no instructions for this application
+    # Instructions
+        the instructions for this application are to use it
 
-    ## Usage Information
-        to use the applicaton
+    # Usage Information
+        the primary use for this application is to use it
 
-    ## Questions
+    # Questions
        You can contact me via GitHub or email if you have any questoins:
              - GitHub: github.com/kelley-mcd
              - Email Address: kmcdonnell8@gmail.com
 
-    ## License
+    # License
         The license used for this application is:
-            - undefined
+            - Boost Software 1.0
     
     
