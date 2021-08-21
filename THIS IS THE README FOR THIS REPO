@@ -1,0 +1,11 @@
+In this homework assignment I was tasked with creating a good README generator.
+
+README files are always being used in coding and are very important when writing code, reading code, and using applications.
+
+the user can create their very own read me by using my readme generator.
+they have to open up the command line
+then run the index.js file
+then they are prompted with questions that will help them create their readme file
+once they answer all of the questions (as shown in the photos titled "readmephoto.png" and "readmephoto2.png") the generator automatically spits out the README.md file and saves it in the folder with the index.js files.
+
+the user can then use the README file for their own applications and coding purposes.
